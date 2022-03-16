@@ -36,7 +36,7 @@ function cmp(a,b) {
 
 `    `} else {
 
-`        `var res = 0
+`        `let res = 0
 
 `    `}
 
